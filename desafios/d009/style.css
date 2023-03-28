@@ -4,8 +4,25 @@ body{
     color: #adb5bd;
     text-align: center;
     font-family: sans-serif;
+    padding: 10px;
 
 }
+div.video{
+    background-color: var(--cor4);
+
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    position: relative;
+    padding-bottom: 58%;
+}
+div.video>iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
 footer{
-    color: #7209b7;
+    margin-top: 80px;
+    color: #8a7a94;
 }
