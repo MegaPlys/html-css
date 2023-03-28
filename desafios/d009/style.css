@@ -1,5 +1,6 @@
 @charset "UTF-8";
 body{
+
     background-color: #5d737e;
     color: #ffddd2;
     text-align: center;
@@ -24,4 +25,15 @@ footer{
     margin: 80px;
     padding: 30px;
     color: #83c5be;
+}
+footer > a{ 
+    color: #ffddd2;
+    text-decoration: none;
+    transition-duration: 0.25s;
+    padding: 4px;
+}
+footer > a:hover {
+    color: #4ac4b7;
+    border-radius: 5px;
+    background-color: #6297b1;
 }
