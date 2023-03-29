@@ -22,8 +22,10 @@ div.video>iframe{
     height: 90%;
 }
 footer{
-    margin: 80px;
-    padding: 30px;
+    text-align: center;
+    margin: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     color: #83c5be;
 }
 footer > a{ 
