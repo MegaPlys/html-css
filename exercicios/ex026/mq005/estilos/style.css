@@ -5,6 +5,7 @@
      margin: 0px;
      padding: 0px;
 }
+
 html, body {
     background-color: #9381FF;
 }
@@ -59,6 +60,7 @@ main {
     padding: 10px;
     background-color: #F8F7FF;
     border-radius: 10px;
+    display: block;
 }
 article > h2 {
     padding: 10px;
